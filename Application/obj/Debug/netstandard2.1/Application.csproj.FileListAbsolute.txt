@@ -1,0 +1,13 @@
+/mnt/c/Users/azad_/Documents/Demo/Reactivities/Application/bin/Debug/netstandard2.1/Application.deps.json
+/mnt/c/Users/azad_/Documents/Demo/Reactivities/Application/bin/Debug/netstandard2.1/Application.dll
+/mnt/c/Users/azad_/Documents/Demo/Reactivities/Application/bin/Debug/netstandard2.1/Application.pdb
+/mnt/c/Users/azad_/Documents/Demo/Reactivities/Application/bin/Debug/netstandard2.1/Domain.dll
+/mnt/c/Users/azad_/Documents/Demo/Reactivities/Application/bin/Debug/netstandard2.1/Persistence.dll
+/mnt/c/Users/azad_/Documents/Demo/Reactivities/Application/bin/Debug/netstandard2.1/Domain.pdb
+/mnt/c/Users/azad_/Documents/Demo/Reactivities/Application/bin/Debug/netstandard2.1/Persistence.pdb
+/mnt/c/Users/azad_/Documents/Demo/Reactivities/Application/obj/Debug/netstandard2.1/Application.csprojAssemblyReference.cache
+/mnt/c/Users/azad_/Documents/Demo/Reactivities/Application/obj/Debug/netstandard2.1/Application.AssemblyInfoInputs.cache
+/mnt/c/Users/azad_/Documents/Demo/Reactivities/Application/obj/Debug/netstandard2.1/Application.AssemblyInfo.cs
+/mnt/c/Users/azad_/Documents/Demo/Reactivities/Application/obj/Debug/netstandard2.1/Application.csproj.CopyComplete
+/mnt/c/Users/azad_/Documents/Demo/Reactivities/Application/obj/Debug/netstandard2.1/Application.dll
+/mnt/c/Users/azad_/Documents/Demo/Reactivities/Application/obj/Debug/netstandard2.1/Application.pdb

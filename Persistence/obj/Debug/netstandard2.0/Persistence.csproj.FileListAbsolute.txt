@@ -1,0 +1,11 @@
+/mnt/c/Users/azad_/Documents/Demo/Reactivities/Persistence/bin/Debug/netstandard2.0/Persistence.deps.json
+/mnt/c/Users/azad_/Documents/Demo/Reactivities/Persistence/bin/Debug/netstandard2.0/Persistence.dll
+/mnt/c/Users/azad_/Documents/Demo/Reactivities/Persistence/bin/Debug/netstandard2.0/Persistence.pdb
+/mnt/c/Users/azad_/Documents/Demo/Reactivities/Persistence/bin/Debug/netstandard2.0/Domain.dll
+/mnt/c/Users/azad_/Documents/Demo/Reactivities/Persistence/bin/Debug/netstandard2.0/Domain.pdb
+/mnt/c/Users/azad_/Documents/Demo/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.csprojAssemblyReference.cache
+/mnt/c/Users/azad_/Documents/Demo/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfoInputs.cache
+/mnt/c/Users/azad_/Documents/Demo/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfo.cs
+/mnt/c/Users/azad_/Documents/Demo/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.csproj.CopyComplete
+/mnt/c/Users/azad_/Documents/Demo/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.dll
+/mnt/c/Users/azad_/Documents/Demo/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.pdb

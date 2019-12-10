@@ -4,6 +4,59 @@
     "/mnt/c/Users/azad_/Documents/Demo/Reactivities/Persistence/Persistence.csproj": {}
   },
   "projects": {
+    "/mnt/c/Users/azad_/Documents/Demo/Reactivities/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/c/Users/azad_/Documents/Demo/Reactivities/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/mnt/c/Users/azad_/Documents/Demo/Reactivities/Domain/Domain.csproj",
+        "packagesPath": "/home/hanabi/.nuget/packages/",
+        "outputPath": "/mnt/c/Users/azad_/Documents/Demo/Reactivities/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/hanabi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/mnt/c/Users/azad_/Documents/Demo/Reactivities/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -20,14 +73,18 @@
           "/home/hanabi/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.0"
+          "netstandard2.1"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.0": {
-            "projectReferences": {}
+          "netstandard2.1": {
+            "projectReferences": {
+              "/mnt/c/Users/azad_/Documents/Demo/Reactivities/Domain/Domain.csproj": {
+                "projectPath": "/mnt/c/Users/azad_/Documents/Demo/Reactivities/Domain/Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -37,13 +94,15 @@
         }
       },
       "frameworks": {
-        "netstandard2.0": {
+        "netstandard2.1": {
           "dependencies": {
-            "NETStandard.Library": {
-              "suppressParent": "All",
+            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[2.0.3, )",
-              "autoReferenced": true
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.0.0, )"
             }
           },
           "imports": [
@@ -56,6 +115,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.101/RuntimeIdentifierGraph.json"
         }
       }
