@@ -1,8 +1,0 @@
-/mnt/c/Users/azad_/Documents/Demo/Reactivities/Domain/bin/Debug/netstandard2.0/Domain.deps.json
-/mnt/c/Users/azad_/Documents/Demo/Reactivities/Domain/bin/Debug/netstandard2.0/Domain.dll
-/mnt/c/Users/azad_/Documents/Demo/Reactivities/Domain/bin/Debug/netstandard2.0/Domain.pdb
-/mnt/c/Users/azad_/Documents/Demo/Reactivities/Domain/obj/Debug/netstandard2.0/Domain.csprojAssemblyReference.cache
-/mnt/c/Users/azad_/Documents/Demo/Reactivities/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfoInputs.cache
-/mnt/c/Users/azad_/Documents/Demo/Reactivities/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfo.cs
-/mnt/c/Users/azad_/Documents/Demo/Reactivities/Domain/obj/Debug/netstandard2.0/Domain.dll
-/mnt/c/Users/azad_/Documents/Demo/Reactivities/Domain/obj/Debug/netstandard2.0/Domain.pdb
